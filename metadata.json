@@ -1,0 +1,6 @@
+{
+  "name": "Dentista Guarujá Centro - CERON",
+  "description": "Clínica odontológica em Guarujá, localizada na Vila Maia. Cuidado e atenção à saúde bucal com atendimento profissional e acolhedor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
